@@ -1,7 +1,3 @@
 Murali Krishna
 Vemula
-<<<<<<< HEAD
-conflict branch≈
-=======
-master
->>>>>>> master
+another-branch
